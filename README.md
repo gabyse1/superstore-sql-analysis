@@ -18,7 +18,7 @@ In this project, you:
 
 - **SQL Server and SSMS:** the setup guide in `00_setup` has the links and every step.
 - **[Git](https://github.com/):** a GitHub account, to save and share your project.
-- **Kaggle (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final):**  a dataset repository containing Sales & Profits of a Superstore.
+- **[Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final):**  a dataset repository containing Sales & Profits of a Superstore.
 
 ---
 
